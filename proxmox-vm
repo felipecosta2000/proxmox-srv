@@ -1,0 +1,30 @@
+Ambiente Virtual Proxmox:
+
+Proxmox VE é uma plataforma de código aberto completa para virtualização empresarial. Com a interface da 
+web integrada, você pode gerenciar facilmente VMs e contêineres, armazenamento e rede definidos por software, 
+cluster de alta disponibilidade e várias ferramentas prontas para usar em uma única solução.
+
+Proxmox VE é uma plataforma de gerenciamento de servidor de código aberto para a virtualização de sua 
+empresa. Ele se integra perfeitamente ao hipervisor KVM e LXC, armazenamento definido por software e 
+funcionalidade de rede em uma única plataforma. Com a interface de usuário baseada na web integrada, você pode 
+gerenciar facilmente VMs e contêineres, clusters altamente disponíveis ou as ferramentas integradas de recuperação 
+de desastres com facilidade.
+
+Configurando a máquina virtual no virtualbox.
+
+Faça o download do virtualbox e realize a instalação do mesmo.
+Link para download: https://www.virtualbox.org/wiki/Downloads
+
+Faça o download da ISO do Proxmox. Procure no google ou acesse 
+https://www.proxmox.com/en/download
+
+
+
+
+
+
+
+
+
+
+
