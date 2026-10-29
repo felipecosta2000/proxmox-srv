@@ -23,7 +23,6 @@ https://www.proxmox.com/en/download
 Comandos:
 
 cat /etc/passwd | less (usuario linux)
-
 cat /etc/pve/user.cfg (usuario Proxmox)
 
 
