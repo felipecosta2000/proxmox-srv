@@ -18,6 +18,12 @@ Link para download: https://www.virtualbox.org/wiki/Downloads
 Faça o download da ISO do Proxmox. Procure no google ou acesse 
 https://www.proxmox.com/en/download
 
+Comandos:
+
+cat /etc/passwd | less (usuario linux)
+
+cat /etc/pve/user.cfg (usuario Proxmox)
+
 
 
 
